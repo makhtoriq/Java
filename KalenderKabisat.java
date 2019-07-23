@@ -1,4 +1,4 @@
-///author@radiansyah.akbar
+///author@makhtoriq
 package kalender.kabisat;
 import javax.swing.JOptionPane;
 class TahunKabisa{
